@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2025-05-04
-image: "/template_site/images/csr_thumbnail.png"
+image: "/conflict_urbanism_sp2025/images/wicaksana/wicaksana_thumbnail.gif"
 title:  "The Ever-changing City: Rethinking the Role of Informality in Jakarta"
 author: "Bimo Wicaksana | Dolyagritt Wonggom"
 ---
