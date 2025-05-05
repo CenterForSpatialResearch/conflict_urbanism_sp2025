@@ -80,6 +80,7 @@ Despite widespread protests, many residents were evicted with little warning or 
 Karet Kuningan, or Karbela, sits in the shadow of Jakarta’s Golden Triangle—one of Southeast Asia’s most important financial districts. Its presence highlights the strategic location of many kampungs, which have evolved alongside the city over time.
 
 ![Timelapse satellite images show the transformation of the financial district and Kampung Karbela.](/conflict_urbanism_sp2025/images/wicaksana/wonggom_Karbela_Aerialtimelapse_rev.gif)
+
 Fig.4 - Timelapse satellite images show the transformation of the financial district and Kampung Karbela.
 
 The red overlay represents the officially recognized area of Kampung Karbela, while the yellow dashed boundary marks the edge between the kampung and the financial district, where commercial activity and interaction is concentrated.
@@ -103,6 +104,7 @@ These services are not only affordable and flexible, but they also rely on hyper
 Kampungs Residents had lived in the area since the 1970s, forming a **tight-knit community with livelihoods tied to the nearby fish market** and informal economic activities.​ They  preserve cultural traditions, creating strong community networks and social support systems, while contributing to the city’s unique cultural identity in this fisherman community. 
 
 ![Timelapse satellite images of Kampung Akuarium transformation](/conflict_urbanism_sp2025/images/wicaksana/wonggom_Akuarium_Aerialtimelapse_rev.gif)
+
 Fig.6 - Timelapse satellite images of Kampung Akuarium transformation
 
 Like many kampungs Akuarium established near trade routes, water sources, or urban centers for economic and resource access. Over time, these locations became valuable real estate, and Kampungs remained in place as cities expanded. **On April 11, 2016, the Jakarta Provincial Government, under Governor Basuki Tjahaja Purnama (Ahok). The eviction aimed to revitalize the Kota Tua heritage area and integrate the land into urban development projects.**
