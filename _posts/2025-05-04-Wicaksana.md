@@ -2,7 +2,7 @@
 layout: post
 date:   2025-05-04
 image: "/template_site/images/csr_thumbnail.png"
-title:  "bw2814 | dw3090"
+title:  "The Ever-changing City: Rethinking the Role of Informality in Jakarta"
 author: "Bimo Wicaksana | Dolyagritt Wonggom"
 ---
 
@@ -28,7 +28,7 @@ Together, these initiatives illustrate how urban transformation in Jakarta often
 
 Jakarta has long been more than just Indonesia’s capital—it has been a launchpad for political power. Over the past two decades, the role of governor has increasingly become a pathway to the presidency. In this context, large-scale urban development projects—flood mitigation, housing renewal, infrastructure upgrades, are often used not just to address urban challenges, but to perform leadership and gain national visibility.
 
-![Timeline of Jakarta’s Political and Urban Development History (2007–2022)] (conflict_urbanism_sp2025/images/wicaksana/wonggom_Timeline.png)
+![Timeline of Jakarta’s Political and Urban Development History (2007–2022)](/conflict_urbanism_sp2025/images/wicaksana/wonggom_Timeline.png)
 
 From Sutiyoso and Fauzi Bowo to Jokowi, Ahok, and Anies Baswedan, each administration has introduced its own wave of mega-projects: river normalization, seawalls, smart city platforms, and expressways. While framed as solutions to pressing urban issues, these projects often reflect top-down decision-making shaped more by political ambition than by local needs. Jokowi’s rise, for example, was closely tied to his urban initiatives in Jakarta, many of which were continued or intensified by his successors.
 
@@ -40,7 +40,7 @@ Across these shifts, kampung communities have borne the cost. Evictions often ri
 
 Kampung Pulo was a dense riverside neighborhood in East Jakarta, situated along the Ciliwung River.  Despite ***being informal in the eyes of the state*** (many lacked formal land ownership), Kampung Pulo was **a well-organized, socially connected community and tight-knit social life** made it a place of belonging for working-class Jakartans.
 
-![Timelapse satellite images of Bukit Duri and Kampung Pulo reveal the shift from informal waterfront settlements to a hard-engineered riverbank.] (conflict_urbanism_sp2025/images/wicaksana/wonggom_pulo_Aerialtimelapse.gif)
+![Timelapse satellite images of Bukit Duri and Kampung Pulo reveal the shift from informal waterfront settlements to a hard-engineered riverbank.](/conflict_urbanism_sp2025/images/wicaksana/wonggom_pulo_Aerialtimelapse.gif)
 
 In **August 2015**, the Jakarta provincial government under <u>Governor Basuki Tjahaja Purnama (Ahok) </u> carried out a ***large-scale forced eviction*** of Kampung Pulo residents.
 
@@ -56,7 +56,7 @@ Despite widespread protests, many residents were evicted with little warning or 
 
 Karet Kuningan, or Karbela, sits in the shadow of Jakarta’s Golden Triangle—one of Southeast Asia’s most important financial districts. Its presence highlights the strategic location of many kampungs, which have evolved alongside the city over time.
 
-![Timelapse satellite images show the transformation of the financial district and Kampung Karbela.] (conflict_urbanism_sp2025/images/wicaksana/wonggom_Karbela_Aerialtimelapse_rev.gif)
+![Timelapse satellite images show the transformation of the financial district and Kampung Karbela.](/conflict_urbanism_sp2025/images/wicaksana/wonggom_Karbela_Aerialtimelapse_rev.gif)
 
 The red overlay represents the officially recognized area of Kampung Karbela, while the yellow dashed boundary marks the edge between the kampung and the financial district, where commercial activity and interaction is concentrated.
 
@@ -67,7 +67,7 @@ Residents of Karbela operate a wide range of informal services that directly sup
 3. Parking management, motorbike taxis (ojek), delivery services, and domestic work for nearby executives.
 4. Kampungs offer affordable housing in the city, housing a large portion of Jakarta's working-class population, despite overcrowding and poor infrastructure.
 
-![Timelapse of Google Street View images at the edge of the area shows transformation where informal services are actively operating] (conflict_urbanism_sp2025/images/wicaksana/wonggom_Karbela_humanscaletimelapse.gif)
+![Timelapse of Google Street View images at the edge of the area shows transformation where informal services are actively operating](/conflict_urbanism_sp2025/images/wicaksana/wonggom_Karbela_humanscaletimelapse.gif)
 
 These services are not only affordable and flexible, but they also rely on hyper-local knowledge—making them vital to the smooth operation of Jakarta’s formal economy. Far from being separate, they are deeply interwoven into the systems that keep the city running.
 
@@ -77,11 +77,11 @@ These services are not only affordable and flexible, but they also rely on hyper
 
 Kampungs Residents had lived in the area since the 1970s, forming a **tight-knit community with livelihoods tied to the nearby fish market** and informal economic activities.​ They  preserve cultural traditions, creating strong community networks and social support systems, while contributing to the city’s unique cultural identity in this fisherman community. 
 
-![Timelapse satellite images of Kampung Akuarium transformation] (conflict_urbanism_sp2025/images/wicaksana/wonggom_Akuarium_Aerialtimelapse_rev.gif)
+![Timelapse satellite images of Kampung Akuarium transformation](/conflict_urbanism_sp2025/images/wicaksana/wonggom_Akuarium_Aerialtimelapse_rev.gif)
 
 Like many kampungs Akuarium established near trade routes, water sources, or urban centers for economic and resource access. Over time, these locations became valuable real estate, and Kampungs remained in place as cities expanded. **On April 11, 2016, the Jakarta Provincial Government, under Governor Basuki Tjahaja Purnama (Ahok). The eviction aimed to revitalize the Kota Tua heritage area and integrate the land into urban development projects.**
 
-![Timelapse of Google Street View images shows transformation of the contested site where residents refused to relocate and stayed in makeshift shelters.] (conflict_urbanism_sp2025/images/wicaksana/wonggom_Akuarium_Humanscaletimelapse2.gif)
+![Timelapse of Google Street View images shows transformation of the contested site where residents refused to relocate and stayed in makeshift shelters.](/conflict_urbanism_sp2025/images/wicaksana/wonggom_Akuarium_Humanscaletimelapse2.gif)
 
 Following the eviction, many residents refused to relocate to temporary housing and instead **stayed in makeshift shelters on the demolished site. They organized protests, filed lawsuits, and garnered support from NGOs**. Which are another form of infrapolitic, daily tactics: rebuilding demolished homes, resisting registration to remain off radar, reclaiming public space. After Anies Baswedan's election victory, the government initiated the reconstruction of Kampung Akuarium as a "vertical kampung"—a mid-rise housing complex designed with community input.
 
@@ -91,7 +91,7 @@ Following the eviction, many residents refused to relocate to temporary housing 
 
 The story of Jakarta’s kampungs reveals a deeper imperative: **Southeast Asian cities must be reintegrated into global urban discourse not as passive recipients of Western planning models, but as producers of their own urban knowledge.** Too often, dominant frameworks prioritize formal infrastructure and top-down control, sidelining the lived realities of communities whose informal systems are deeply adaptive, resilient, and socially rich. Kampung residents do not reject development. They call for **in-situ upgrading, secure tenure,** and **hybrid spaces** that sustain social proximity and everyday livelihoods. As one resident put it, 
 
-*<blockquote>"Warga ingin kota yang bisa menampung hidup mereka, bukan mengusir mereka” —they want a city that can hold their lives, not push them out.</blockquote>*
+<blockquote> "Warga ingin kota yang bisa menampung hidup mereka, bukan mengusir mereka” —they want a city that can hold their lives, not push them out." </blockquote>
 
 Researchers, activists, and design practitioners working in solidarity with these communities envision a different urban future—one that challenges narratives that criminalize informality and instead positions it as a site of innovation, care, and collective life. 
 
