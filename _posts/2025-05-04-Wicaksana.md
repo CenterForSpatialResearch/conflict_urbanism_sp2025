@@ -14,6 +14,15 @@ Informal settlements or **kampungs** are home to 20–25% of Jakarta’s populat
 
 Jakarta's urban form is best understood not through binary oppositions but via the integrated, ambivalent space of the kampung—a site of survival, negotiation, and production within capitalist urbanization.
 
+#### **The Sprawling Metropolis**
+
+Who has the right to author a city? Throughout its history, the development of Jakarta has emerged as an interplay of socioeconomic forces. From its origin as a Dutch colonial city to its eventual zenith as one of the most populated cities in the world. Because of that, Jakarta doesn’t have a fixed urban identity as its development goals change to suit its political landscape. One constant that’s ever-present is the existence of informality. Be it in the form of kampung or informal economy, informality has been the ongoing thread that connects Jakarta’s past, present, and future.
+
+Despite its perseverance, the residents of Kampungs in Jakarta face constant fear of forced eviction by the government. Often understood as dirty, disorganized, or hurtful to the image of the city, many kampung areas are demolished in favor of building infrastructure or political projects such as riverbank development, city stadium, or luxury housing. Worse yet, the Kampung residents are not temporary squatters. They’re often long-time, multi generational families who work in the city as street vendors, cleaners, domestic workers, uber drivers, and more. The evictions disrupt their socioeconomic stability and often reverberate into violent conflicts with the authority, worsening their image to the public.
+
+It is unfortunate that informality often framed as thorns that should be trimmed in Jakarta’s contemporary urban development. With so many forced eviction, on will wonder why such an integral part of a city’s history is constantly demonized. A dialogue with RRJ (Rame-Rame Jakarta), an NGO specializing in championing informality in Jakarta revealed an insightful perspective to this issue.
+
+
 #### **Western Idea of urbanization**
 
 Urban development in Jakarta increasingly reflects a globalized, Western-influenced mindset—one that prioritizes top-down planning, technological efficiency, and alignment with international standards of modernity. Initiatives such as the **Jakarta Smart City program** and the city’s aspiration to become a **global financial hub** are emblematic of this trend. They frame progress in terms of digital infrastructure, economic competitiveness, and investment appeal, often designed and delivered through elite-driven governance. 
@@ -33,6 +42,17 @@ Jakarta has long been more than just Indonesia’s capital—it has been a launc
 From Sutiyoso and Fauzi Bowo to Jokowi, Ahok, and Anies Baswedan, each administration has introduced its own wave of mega-projects: river normalization, seawalls, smart city platforms, and expressways. While framed as solutions to pressing urban issues, these projects often reflect top-down decision-making shaped more by political ambition than by local needs. Jokowi’s rise, for example, was closely tied to his urban initiatives in Jakarta, many of which were continued or intensified by his successors.
 
 Across these shifts, kampung communities have borne the cost. Evictions often rise during periods of political transition, revealing how Jakarta’s landscape is not only a site of planning, but of power. The ever-changing city reflects not just development pressures, but the ambitions of those who hope to rule it, and beyond.
+
+#### **The Forgotten Crises**
+
+The politicization of kampungs in Jakarta has caused deep wounds. From a loss of neighborhood bonds, intergenerational care, and support networks, many residents have expressed deep regret at the destruction of their homes. The psychological impacts are rarely discussed, too. Ranging from feelings of shame, alienation, and trauma, these forced evictions become the source of stress to an already marginalized community. The trauma is especially unique as the emergent nature of Kampung’s dense network is hard to build as it relies on informality, an aspect that the government demonizes.
+
+With its westernized development compass, the government often replaced these organically formed Kampung with flats and social housing that is built based on formality. While it can handle the population density of a kampung, it is lacking in its capacity to handle its cultural density. 
+
+<blockquote> ”In a flat, there is no neighbor. In kampung, we live together”--- Kris, RRJ </blockquote>
+
+What is the proper approach in integrating kampung into Jakarta’s contemporary paradigm? To investigate this issue, we must first understand the different relationship between kampungs and Jakarta. In this study, three kampungs are selected as case studies to observe these relationships. Those kampungs are Kampung Pulo, Karbela, and Kampung Akuarium.
+
 
 #### **Case studies** 
 
