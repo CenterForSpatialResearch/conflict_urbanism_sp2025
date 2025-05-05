@@ -6,7 +6,12 @@ title:  "The Ever-changing City: Rethinking the Role of Informality in Jakarta"
 author: "Bimo Wicaksana | Dolyagritt Wonggom"
 ---
 
-#### **INTRODUCTION**
+<figure>
+ ![Plattegrond Van Batavia](/conflict_urbanism_sp2025/images/wicaksana/wicaksana_intro.png)
+ <figcaption> Fig.1 - Plattegron Van Battavia, 1938 - red color denotates built areas while green color denotates kampung areas. </figcaption>
+</figure>
+
+#### **Introduction**
 
 the long-standing paradigm that categorizes Southeast Asian cities as “Third World cities” with unique, non-Western features. Dick and Rimmer (1998) argue that due to globalisation and urban restructuring since the 1980s, Southeast Asian cities are increasingly converging with Western urban forms. Cities now feature edge cities, gated communities, mega-malls, and integrated satellite towns, especially around Jakarta. Jakarta exemplifies hybrid urban conditions, with new town developments reshaping the urban landscape into sprawling, privately developed zones integrating residential, commercial, and industrial functions, where informal settlements (kampung) are not peripheral but integral to the city’s form and function. This challenges the dominant urban theories focused on formal development and marginalization. Kampungs embody a “middle” position—both rural and urban, formal and informal, integrated yet marginalized.
 
