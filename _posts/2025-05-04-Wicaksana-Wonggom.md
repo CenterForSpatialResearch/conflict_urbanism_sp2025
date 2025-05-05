@@ -6,10 +6,8 @@ title:  "The Ever-changing City: Rethinking the Role of Informality in Jakarta"
 author: "Bimo Wicaksana | Dolyagritt Wonggom"
 ---
 
-<figure>
  ![Plattegrond Van Batavia](/conflict_urbanism_sp2025/images/wicaksana/wicaksana_intro.png)
  <figcaption> Fig.1 - Plattegron Van Battavia, 1938 - red color denotates built areas while green color denotates kampung areas. </figcaption>
-</figure>
 
 #### **Introduction**
 
