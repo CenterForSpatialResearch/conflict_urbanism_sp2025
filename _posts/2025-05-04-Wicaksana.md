@@ -36,7 +36,7 @@ Across these shifts, kampung communities have borne the cost. Evictions often ri
 
 #### **Case studies** 
 
-**Kampung Pulo: Wiped out in the name of flood control**
+##### **Kampung Pulo: Wiped out in the name of flood control**
 
 Kampung Pulo was a dense riverside neighborhood in East Jakarta, situated along the Ciliwung River.  Despite ***being informal in the eyes of the state*** (many lacked formal land ownership), Kampung Pulo was **a well-organized, socially connected community and tight-knit social life** made it a place of belonging for working-class Jakartans.
 
@@ -52,7 +52,7 @@ The government claimed the eviction was necessary for:
 
 Despite widespread protests, many residents were evicted with little warning or fair compensation. Hundreds of police and military officers were deployed. Heavy machinery moved in, demolishing homes while people were still packing their belongings.
 
-#### **Kampung Karbela: Strategic Location = Daily Interaction**
+##### **Kampung Karbela: Strategic Location = Daily Interaction**
 
 Karet Kuningan, or Karbela, sits in the shadow of Jakarta’s Golden Triangle—one of Southeast Asia’s most important financial districts. Its presence highlights the strategic location of many kampungs, which have evolved alongside the city over time.
 
@@ -71,9 +71,9 @@ Residents of Karbela operate a wide range of informal services that directly sup
 
 These services are not only affordable and flexible, but they also rely on hyper-local knowledge—making them vital to the smooth operation of Jakarta’s formal economy. Far from being separate, they are deeply interwoven into the systems that keep the city running.
 
-*<blockquote>"Their survival isn’t just about resistance, it’s about co-production of the city."</blockquote>*
+<blockquote> "Their survival isn’t just about resistance, it’s about co-production of the city." </blockquote>
 
-#### **Kampung Akuarium: Erased ,but rebuilt by resistance, the best approach to accommodating informality**
+##### **Kampung Akuarium: Erased ,but rebuilt by resistance, the best approach to accommodating informality**
 
 Kampungs Residents had lived in the area since the 1970s, forming a **tight-knit community with livelihoods tied to the nearby fish market** and informal economic activities.​ They  preserve cultural traditions, creating strong community networks and social support systems, while contributing to the city’s unique cultural identity in this fisherman community. 
 
@@ -85,7 +85,7 @@ Like many kampungs Akuarium established near trade routes, water sources, or urb
 
 Following the eviction, many residents refused to relocate to temporary housing and instead **stayed in makeshift shelters on the demolished site. They organized protests, filed lawsuits, and garnered support from NGOs**. Which are another form of infrapolitic, daily tactics: rebuilding demolished homes, resisting registration to remain off radar, reclaiming public space. After Anies Baswedan's election victory, the government initiated the reconstruction of Kampung Akuarium as a "vertical kampung"—a mid-rise housing complex designed with community input.
 
-*<blockquote>“Warga beradaptasi dengan cara yang tidak terlihat, tapi sangat politis.” Kampung resistance ranges from visible protest to infrapolitical acts</blockquote>*
+<blockquote> “Warga beradaptasi dengan cara yang tidak terlihat, tapi sangat politis.” Kampung resistance ranges from visible protest to infrapolitical acts </blockquote>
 
 #### **Conclusion and hopes for the future**
 
@@ -112,107 +112,3 @@ Jakarta Smart City. “Mengenal Konsep dan Pengertian Smart City.” Accessed Ma
 Jakarta Smart City. “Upaya Jakarta Menuju Kota Global.” Accessed May 1, 2025. https://smartcity.jakarta.go.id/en/blog/upaya-jakarta-menuju-kota-global.
 
  
-
-
-
-
-
-
-This is a document that is written in markdown. What is markdown? It is a 'markup language' that allows you to format plain text in a way that is easily converted to many different formats. For example, this document was written in markdown but will be used as an webpage and converted into HTML.  
-
-To present and turn in your final projects for Conflict Urbanism, Spring 2025 you will be editing this template. You will include all of the text of your paper here, along with any and all images, maps, videos, or other materials that you produce.  
-
-[This webpage](https://guides.github.com/features/mastering-markdown/) provides a comprehensive guide to markdown syntax. But to make things easier for you we are including a cheat sheet of the main things you need to know here.  
-
-#### Please use level 4 headings for major section divisions  
-(make sure to put two spaces after the end of the heading)
-
-Write **words in bold** like this.  
-
-Italics are *similar* and are formatted like this.  
-
-To make a paragraph break you need to add two spaces at the end of your line before going to the next line.  
-
-See this is now a new paragraph.  
-
-Lists are easy:
-1. they can be ordered
-1. like this
-1. notice that the numbers are automatically ordered
-  1. use two spaces in front to indent
-
-Or they can just be bullet points:
-- like this
-* or like this
-  - use two spaces
-  - to have nested lists
-
-Use Author-Date parenthetical citations following Chicago Manual of Style conventions throughout your document, and add a works cited at the bottom of your post. See Author-Date quick guide [here](https://www-chicagomanualofstyle-org.ezproxy.cul.columbia.edu/tools_citationguide/citation-guide-2.html) for citation conventions.  
-
-To include hyperlinks format them like this [text of link](http://c4sr.columbia.edu/).  
-
-To embed images first ensure that the file is at least 740px wide. Then place the image file in a folder named for your group in the images folder. Then link to that image using the format here, but replace the file path with the name of your group's folder and appropriate image file name:  
-
-![description of image](/template_site/images/sample_image.png)
-Case studies 
-
-Kampung Pulo: Wiped out in the name of flood control
-Kampung Pulo was a dense riverside neighborhood in East Jakarta, situated along the Ciliwung River.  Despite being informal in the eyes of the state (many lacked formal land ownership), Kampung Pulo was a well-organized, socially connected community and tight-knit social life made it a place of belonging for working-class Jakartans.
-
-wonggom_pulo_Aerialtimelapse.gif
-Timelapse satellite images of Bukit Duri and Kampung Pulo reveal the shift from informal waterfront settlements to a hard-engineered riverbank.
-
-In August 2015, the Jakarta provincial government under Governor Basuki Tjahaja Purnama (Ahok) carried out a large-scale forced eviction of Kampung Pulo residents.
-The government claimed the eviction was necessary for:
-Ciliwung River normalization (flood control and infrastructure improvements)
-Creating a green corridor and embankment wall
-Protecting Jakarta from annual flooding
-Despite widespread protests, many residents were evicted with little warning or fair compensation. Hundreds of police and military officers were deployed. Heavy machinery moved in, demolishing homes while people were still packing their belongings.
-
-Kampung Karbela: Strategic Location = Daily Interaction
-Karet Kuningan, or Karbela, sits in the shadow of Jakarta’s Golden Triangle—one of Southeast Asia’s most important financial districts. Its presence highlights the strategic location of many kampungs, which have evolved alongside the city over time. 
-wonggom_Karbela_Aerialtimelapse_rev.gif
-Timelapse satellite images show the transformation of the financial district and Kampung Karbela. The red overlay represents the officially recognized area of Kampung Karbela, while the yellow dashed boundary marks the edge between the kampung and the financial district, where commercial activity and interaction is concentrated.
-Residents of Karbela operate a wide range of informal services that directly support workers in the financial district, illustrating the deep interconnection between kampung life and Jakarta’s formal economy. These residents provide essential, low-cost labor across various sectors, including:
-Street food stalls and warungs that feed thousands of office workers each day.
-Laundry and tailoring services catering to white-collar staff.
-Parking management, motorbike taxis (ojek), delivery services, and domestic work for nearby executives.
-Kampungs offer affordable housing in the city, housing a large portion of Jakarta's working-class population, despite overcrowding and poor infrastructure.
-wonggom_Karbela_humanscaletimelapse.gif
-Timelapse of Google Street View images at the edge of the area shows transformation where informal services are actively operating
-These services are not only affordable and flexible, but they also rely on hyper-local knowledge—making them vital to the smooth operation of Jakarta’s formal economy. Far from being separate, they are deeply interwoven into the systems that keep the city running.
-“Their survival isn’t just about resistance, it’s about co-production of the city.”
-
-
-
-Kampung Akuarium: Erased ,but rebuilt by resistance, the best approach to accommodating informality.
-
-Kampungs Residents had lived in the area since the 1970s, forming a tight-knit community with livelihoods tied to the nearby fish market and informal economic activities.​ They  preserve cultural traditions, creating strong community networks and social support systems, while contributing to the city’s unique cultural identity in this fisherman community. 
-
-wonggom_Akuarium_Aerialtimelapse_rev.gif
-Timelapse satellite images of Kampung Akuarium transformation
-
-Like many kampungs Akuarium established near trade routes, water sources, or urban centers for economic and resource access. Over time, these locations became valuable real estate, and Kampungs remained in place as cities expanded.On April 11, 2016, the Jakarta Provincial Government, under Governor Basuki Tjahaja Purnama (Ahok). The eviction aimed to revitalize the Kota Tua heritage area and integrate the land into urban development projects.
-
-
-wonggom_Akuarium_Humanscaletimelapse2.gif
-Timelapse of Google Street View images shows transformation of the contested site where residents refused to relocate and stayed in makeshift shelters.
-Following the eviction, many residents refused to relocate to temporary housing and instead stayed in makeshift shelters on the demolished site. They organized protests, filed lawsuits, and garnered support from NGOs. Which are another form of infrapolitic, daily tactics: rebuilding demolished homes, resisting registration to remain off radar, reclaiming public space. After Anies Baswedan's election victory, the government initiated the reconstruction of Kampung Akuarium as a "vertical kampung"—a mid-rise housing complex designed with community input. 
-“Warga beradaptasi dengan cara yang tidak terlihat, tapi sangat politis.”
-Kampung resistance ranges from visible protest to infrapolitical acts
-
-Conclusion and hopes for the future
-The story of Jakarta’s kampungs reveals a deeper imperative: Southeast Asian cities must be reintegrated into global urban discourse not as passive recipients of Western planning models, but as producers of their own urban knowledge. Too often, dominant frameworks prioritize formal infrastructure and top-down control, sidelining the lived realities of communities whose informal systems are deeply adaptive, resilient, and socially rich. Kampung residents do not reject development. They call for in-situ upgrading, secure tenure, and hybrid spaces that sustain social proximity and everyday livelihoods. As one resident put it, 
-"Warga ingin kota yang bisa menampung hidup mereka, bukan mengusir mereka”
-—they want a city that can hold their lives, not push them out.
-Researchers, activists, and design practitioners working in solidarity with these communities envision a different urban future—one that challenges narratives that criminalize informality and instead positions it as a site of innovation, care, and collective life. 
-The kampung is not a remnant of the past but a living alternative to dominant urban paradigms. If global urban discourse is to respond meaningfully to the intertwined crises of inequality and climate change, it must shift from exporting solutions to learning from situated practices. In the kampung, we find not a problem to solve, but a set of propositions for how cities might be reimagined just, adaptable, and rooted in the lives of those who build and sustain them every day.
-If you want to include html files (i.e. an interactive map) host these via your personal github page, and then you can embed them in your document with a iframe. The format looks like this:  
-
-<div class="iframe-column"><iframe src="https://player.vimeo.com/video/290575503?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
-
-All you need to do to use one is replace the url that is between the two " ". Here is an iframe of mapbox tiles:  
-
-<div class="iframe-column"><iframe src="https://api.mapbox.com/styles/v1/mapbox/satellite-v9.html?title=true&access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NDg1bDA1cjYzM280NHJ5NzlvNDMifQ.d6e-nNyBDtmQCVwVNivz7A#2/0/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
-
-***REMINDER: To view the structure of your website in Visual Studio Code without having to upload to Github, press the following keys to get a spit-screen view: Ctrl K then V.***
