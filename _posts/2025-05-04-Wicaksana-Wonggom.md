@@ -7,7 +7,7 @@ author: "Bimo Wicaksana | Dolyagritt Wonggom"
 ---
 
  ![Plattegrond Van Batavia](/conflict_urbanism_sp2025/images/wicaksana/wicaksana_intro.png)
- <figcaption> Fig.1 - Plattegron Van Battavia, 1938 - red color denotates built areas while green color denotates kampung areas. (Source: Leiden University) </figcaption>
+ <figcaption> Fig.1 - Plattegrond Van Batavia, 1938 - red color denotates built areas while green color denotates kampung areas. (Source: Leiden University) </figcaption>
 
 <p>#### **Introduction**</p>
 
