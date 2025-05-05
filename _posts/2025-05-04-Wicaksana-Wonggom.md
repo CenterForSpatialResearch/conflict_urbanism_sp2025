@@ -25,7 +25,7 @@ Despite its perseverance, the residents of Kampungs in Jakarta face constant fea
 
 It is unfortunate that informality often framed as thorns that should be trimmed in Jakarta’s contemporary urban development. With so many forced eviction, on will wonder why such an integral part of a city’s history is constantly demonized. A dialogue with RRJ (Rame-Rame Jakarta), an NGO specializing in championing informality in Jakarta revealed an insightful perspective to this issue.
 
-#### **Western Idea of urbanization**
+#### **The Western Idea of Urbanization**
 
 Urban development in Jakarta increasingly reflects a globalized, Western-influenced mindset—one that prioritizes top-down planning, technological efficiency, and alignment with international standards of modernity. Initiatives such as the **Jakarta Smart City program** and the city’s aspiration to become a **global financial hub** are emblematic of this trend. They frame progress in terms of digital infrastructure, economic competitiveness, and investment appeal, often designed and delivered through elite-driven governance. 
 
@@ -35,7 +35,7 @@ As Kian Goh notes in Form and Flow, the Great Garuda functions not only as engin
 
 Together, these initiatives illustrate how urban transformation in Jakarta often relies on a **Western logic of control and formalization,** where communities are expected to adapt to the plan, rather than shape it. To move toward a more equitable and inclusive city, development must shift from imposing visions from above to recognizing and engaging the urban knowledge that already exists on the ground.
 
-#### **Tracing the history of Jakarta political dynamics**
+#### **Tracing the History of Jakarta Political Dynamics**
 
 Jakarta has long been more than just Indonesia’s capital—it has been a launchpad for political power. Over the past two decades, the role of governor has increasingly become a pathway to the presidency. In this context, large-scale urban development projects—flood mitigation, housing renewal, infrastructure upgrades, are often used not just to address urban challenges, but to perform leadership and gain national visibility.
 
@@ -56,7 +56,7 @@ With its westernized development compass, the government often replaced these or
 
 What is the proper approach in integrating kampung into Jakarta’s contemporary paradigm? To investigate this issue, we must first understand the different relationship between kampungs and Jakarta. In this study, three kampungs are selected as case studies to observe these relationships. Those kampungs are Kampung Pulo, Karbela, and Kampung Akuarium.
 
-#### **Case studies** 
+#### **Case Studies** 
 
 ##### **Kampung Pulo: Wiped out in the name of flood control**
 
@@ -114,7 +114,7 @@ Following the eviction, many residents refused to relocate to temporary housing 
 
 <blockquote> “Warga beradaptasi dengan cara yang tidak terlihat, tapi sangat politis.” Kampung resistance ranges from visible protest to infrapolitical acts </blockquote>
 
-#### **Conclusion and hopes for the future**
+#### **Conclusion and Hopes for the Future**
 
 The story of Jakarta’s kampungs reveals a deeper imperative: **Southeast Asian cities must be reintegrated into global urban discourse not as passive recipients of Western planning models, but as producers of their own urban knowledge.** Too often, dominant frameworks prioritize formal infrastructure and top-down control, sidelining the lived realities of communities whose informal systems are deeply adaptive, resilient, and socially rich. Kampung residents do not reject development. They call for **in-situ upgrading, secure tenure,** and **hybrid spaces** that sustain social proximity and everyday livelihoods. As one resident put it, 
 
@@ -124,7 +124,7 @@ Researchers, activists, and design practitioners working in solidarity with thes
 
 The kampung is not a remnant of the past but a **living alternative** to dominant urban paradigms. If global urban discourse is to respond meaningfully to the intertwined crises of inequality and climate change, it must shift from exporting solutions to **learning from situated practices.** In the kampung, we find not a problem to solve, but a set of propositions for how cities might be reimagined **just, adaptable, and rooted in the lives of those who build and sustain them every day.**
 
-#### **REFERENCES**
+#### **References**
 
 Dick, H. W., and P. J. Rimmer. “Beyond the Third World City: The New Urban Geography of South-East Asia.” Urban Studies 35, no. 12 (1998): 2303–2321. https://doi.org/10.1080/0042098983985.
 
