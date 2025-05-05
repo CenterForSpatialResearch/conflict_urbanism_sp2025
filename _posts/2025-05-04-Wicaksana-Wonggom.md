@@ -7,10 +7,9 @@ author: "Bimo Wicaksana | Dolyagritt Wonggom"
 ---
 
  ![Plattegrond Van Batavia](/conflict_urbanism_sp2025/images/wicaksana/wicaksana_intro.png)
- <figcaption> Fig.1 - Plattegrond Van Batavia, 1938 - red color denotates built areas while green color denotates kampung areas. (Source: Leiden University) </figcaption>
+Fig.1 - Plattegrond Van Batavia, 1938 - red color denotates built areas while green color denotates kampung areas. (Source: Leiden University)
 
-<p>#### **Introduction**</p>
-
+#### **Introduction**
 
 the long-standing paradigm that categorizes Southeast Asian cities as “Third World cities” with unique, non-Western features. Dick and Rimmer (1998) argue that due to globalisation and urban restructuring since the 1980s, Southeast Asian cities are increasingly converging with Western urban forms. Cities now feature edge cities, gated communities, mega-malls, and integrated satellite towns, especially around Jakarta. Jakarta exemplifies hybrid urban conditions, with new town developments reshaping the urban landscape into sprawling, privately developed zones integrating residential, commercial, and industrial functions, where informal settlements (kampung) are not peripheral but integral to the city’s form and function. This challenges the dominant urban theories focused on formal development and marginalization. Kampungs embody a “middle” position—both rural and urban, formal and informal, integrated yet marginalized.
 
@@ -25,7 +24,6 @@ Who has the right to author a city? Throughout its history, the development of J
 Despite its perseverance, the residents of Kampungs in Jakarta face constant fear of forced eviction by the government. Often understood as dirty, disorganized, or hurtful to the image of the city, many kampung areas are demolished in favor of building infrastructure or political projects such as riverbank development, city stadium, or luxury housing. Worse yet, the Kampung residents are not temporary squatters. They’re often long-time, multi generational families who work in the city as street vendors, cleaners, domestic workers, uber drivers, and more. The evictions disrupt their socioeconomic stability and often reverberate into violent conflicts with the authority, worsening their image to the public.
 
 It is unfortunate that informality often framed as thorns that should be trimmed in Jakarta’s contemporary urban development. With so many forced eviction, on will wonder why such an integral part of a city’s history is constantly demonized. A dialogue with RRJ (Rame-Rame Jakarta), an NGO specializing in championing informality in Jakarta revealed an insightful perspective to this issue.
-
 
 #### **Western Idea of urbanization**
 
@@ -42,7 +40,7 @@ Together, these initiatives illustrate how urban transformation in Jakarta often
 Jakarta has long been more than just Indonesia’s capital—it has been a launchpad for political power. Over the past two decades, the role of governor has increasingly become a pathway to the presidency. In this context, large-scale urban development projects—flood mitigation, housing renewal, infrastructure upgrades, are often used not just to address urban challenges, but to perform leadership and gain national visibility.
 
 ![Timeline of Jakarta’s Political and Urban Development History (2007–2022)](/conflict_urbanism_sp2025/images/wicaksana/wonggom_Timeline.png)
-<figcaption> Fig.2 - Timeline of Jakarta’s Political and Urban Development History (2007–2022) </figcaption>
+Fig.2 - Timeline of Jakarta’s Political and Urban Development History (2007–2022)
 
 From Sutiyoso and Fauzi Bowo to Jokowi, Ahok, and Anies Baswedan, each administration has introduced its own wave of mega-projects: river normalization, seawalls, smart city platforms, and expressways. While framed as solutions to pressing urban issues, these projects often reflect top-down decision-making shaped more by political ambition than by local needs. Jokowi’s rise, for example, was closely tied to his urban initiatives in Jakarta, many of which were continued or intensified by his successors.
 
@@ -58,7 +56,6 @@ With its westernized development compass, the government often replaced these or
 
 What is the proper approach in integrating kampung into Jakarta’s contemporary paradigm? To investigate this issue, we must first understand the different relationship between kampungs and Jakarta. In this study, three kampungs are selected as case studies to observe these relationships. Those kampungs are Kampung Pulo, Karbela, and Kampung Akuarium.
 
-
 #### **Case studies** 
 
 ##### **Kampung Pulo: Wiped out in the name of flood control**
@@ -66,7 +63,7 @@ What is the proper approach in integrating kampung into Jakarta’s contemporary
 Kampung Pulo was a dense riverside neighborhood in East Jakarta, situated along the Ciliwung River.  Despite ***being informal in the eyes of the state*** (many lacked formal land ownership), Kampung Pulo was **a well-organized, socially connected community and tight-knit social life** made it a place of belonging for working-class Jakartans.
 
 ![Timelapse satellite images of Bukit Duri and Kampung Pulo reveal the shift from informal waterfront settlements to a hard-engineered riverbank.](/conflict_urbanism_sp2025/images/wicaksana/wonggom_pulo_Aerialtimelapse.gif)
-<figcaption> Fig.3 - Timelapse satellite images of Bukit Duri and Kampung Pulo reveal the shift from informal waterfront settlements to a hard-engineered riverbank </figcaption>
+Fig.3 - Timelapse satellite images of Bukit Duri and Kampung Pulo reveal the shift from informal waterfront settlements to a hard-engineered riverbank.
 
 In **August 2015**, the Jakarta provincial government under <u>Governor Basuki Tjahaja Purnama (Ahok) </u> carried out a ***large-scale forced eviction*** of Kampung Pulo residents.
 
@@ -83,7 +80,7 @@ Despite widespread protests, many residents were evicted with little warning or 
 Karet Kuningan, or Karbela, sits in the shadow of Jakarta’s Golden Triangle—one of Southeast Asia’s most important financial districts. Its presence highlights the strategic location of many kampungs, which have evolved alongside the city over time.
 
 ![Timelapse satellite images show the transformation of the financial district and Kampung Karbela.](/conflict_urbanism_sp2025/images/wicaksana/wonggom_Karbela_Aerialtimelapse_rev.gif)
-<figcaption> Fig.4 - Timelapse satellite images show the transformation of the financial district and Kampung Karbela. </figcaption>
+Fig.4 - Timelapse satellite images show the transformation of the financial district and Kampung Karbela.
 
 The red overlay represents the officially recognized area of Kampung Karbela, while the yellow dashed boundary marks the edge between the kampung and the financial district, where commercial activity and interaction is concentrated.
 
@@ -95,6 +92,7 @@ Residents of Karbela operate a wide range of informal services that directly sup
 4. Kampungs offer affordable housing in the city, housing a large portion of Jakarta's working-class population, despite overcrowding and poor infrastructure.
 
 ![Timelapse of Google Street View images at the edge of the area shows transformation where informal services are actively operating](/conflict_urbanism_sp2025/images/wicaksana/wonggom_Karbela_humanscaletimelapse.gif)
+Fig.5 - Timelapse of Google Street View images at the edge of the area shows transformation where informal services are actively operating
 
 These services are not only affordable and flexible, but they also rely on hyper-local knowledge—making them vital to the smooth operation of Jakarta’s formal economy. Far from being separate, they are deeply interwoven into the systems that keep the city running.
 
@@ -105,12 +103,12 @@ These services are not only affordable and flexible, but they also rely on hyper
 Kampungs Residents had lived in the area since the 1970s, forming a **tight-knit community with livelihoods tied to the nearby fish market** and informal economic activities.​ They  preserve cultural traditions, creating strong community networks and social support systems, while contributing to the city’s unique cultural identity in this fisherman community. 
 
 ![Timelapse satellite images of Kampung Akuarium transformation](/conflict_urbanism_sp2025/images/wicaksana/wonggom_Akuarium_Aerialtimelapse_rev.gif)
-<figcaption> Fig.5 - Timelapse satellite images of Kampung Akuarium transformation </figcaption>
+Fig.6 - Timelapse satellite images of Kampung Akuarium transformation
 
 Like many kampungs Akuarium established near trade routes, water sources, or urban centers for economic and resource access. Over time, these locations became valuable real estate, and Kampungs remained in place as cities expanded. **On April 11, 2016, the Jakarta Provincial Government, under Governor Basuki Tjahaja Purnama (Ahok). The eviction aimed to revitalize the Kota Tua heritage area and integrate the land into urban development projects.**
 
 ![Timelapse of Google Street View images shows transformation of the contested site where residents refused to relocate and stayed in makeshift shelters.](/conflict_urbanism_sp2025/images/wicaksana/wonggom_Akuarium_Humanscaletimelapse2.gif)
-<figcaption> Fig.6 - Timelapse of Google Street View images shows transformation of the contested site where residents refused to relocate and stayed in makeshift shelters. </figcaption>
+Fig.7 - Timelapse of Google Street View images shows transformation of the contested site where residents refused to relocate and stayed in makeshift shelters.
 
 Following the eviction, many residents refused to relocate to temporary housing and instead **stayed in makeshift shelters on the demolished site. They organized protests, filed lawsuits, and garnered support from NGOs**. Which are another form of infrapolitic, daily tactics: rebuilding demolished homes, resisting registration to remain off radar, reclaiming public space. After Anies Baswedan's election victory, the government initiated the reconstruction of Kampung Akuarium as a "vertical kampung"—a mid-rise housing complex designed with community input.
 
