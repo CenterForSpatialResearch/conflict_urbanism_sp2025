@@ -646,3 +646,8 @@ img.float-left {
   height: 30vw;
   margin-bottom: 12;
 }
+
+.col-xs-6, .col-sm-4 {
+  margin-bottom: 30px;
+}
+
