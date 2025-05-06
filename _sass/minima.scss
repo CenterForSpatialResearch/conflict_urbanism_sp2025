@@ -49,3 +49,8 @@ $on-laptop:        800px !default;
   "minima/layout",
   "minima/syntax-highlighting"
 ;
+
+.col-xs-6, .col-sm-4 {
+  margin-bottom: 30px;  // adjust the value as you like (e.g., 20px, 40px)
+}
+
