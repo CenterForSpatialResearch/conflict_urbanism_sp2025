@@ -58,16 +58,16 @@ Spatial-temporal analysis reveals how this daily routine created external discip
 </video>
 <figcaption class="caption"><em>Figure 4. Client’s Daily Schedule</em></figcaption>
 <br>
-*Mapping the Absence: Community Resources*: The following opportunity maps (Figure 5) tell the rest of the story. In this recreational desert where YMCAs and Boys & Girls Clubs are conspicuously absent, football was not just a sport; it was critical infrastructure for youth in neglected areas attending overcrowded and underfunded schools. Research confirms such programs compensate for systemic failures: the routines prevent delinquency, mentors replace missing guidance, and social bonds counteract isolation (Spruit et al., 2018; Goodman et al., 2021).  
+*Mapping the Absence: Community Resources*: The following opportunity maps (Figure 5) tell the rest of the story. In this recreational desert where YMCAs and Boys & Girls Clubs are conspicuously absent, football was not just a sport; it was critical infrastructure for youth in neglected areas attending overcrowded and underfunded schools. Using the toggle to swipe between the two maps reveals how what the city reports as "resources" for the  Carroll Gardens-Cobble Hill-Gowanus-Red Hook neighborhood is much different from what is  relevant and appropriate for those in a similar demographic of the client (NYC Department of Planning). While the left-hand side shows all categorized services reported by the city and facilities added by the researchers, the right-hand side trims this list of those locations that are not applicable to the client's given interests; examples to illustrate this filtration include the removal of senior centers, infant-feeding sites, ESOL classrooms & Spanish language centers, electrical-transformer stations, etc. Research confirms such programs compensate for systemic failures: the routines prevent delinquency, mentors replace missing guidance, and social bonds counteract isolation (Spruit et al., 2018; Goodman et al., 2021).  
 
 <div class="iframe-column"><iframe src="https://soenke2003.github.io/Conflict-Urbanism/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div> 
-<figcaption class="caption"><em>Figure 5. Client’s Opportunities and Resources in Red Hook, Brooklyn, New York</em></figcaption>
+<figcaption class="caption"><em>Figure 5. Client's Relevant Opportunities vis-a-vis All Reported Resources in Red Hook, Brooklyn, New York</em></figcaption>
 <br> 
 When the field lights went off on their athletic career, our client did not just lose a game, they lost the scaffolding holding their world together.   
 
 #### 04. METHODOLOGY  
 
-For our spatial analysis, we combined three evidence-based approaches. We start with an IEP distribution mapping, which visualizes neighborhood disparities in special education support and contextualized NYC DOE report linking IEP access to more favorable outcomes and vice versa. Second, a time-geography tracks our client’s daily commute from Red Hook Houses to two different high schools, using MTA transit logs to quantify how the school’s location and consequent commute and the client’s football schedule provided structure. Third, a time analysis tracks our client’s daily schedule to visualize the hour-by-hour difference in our client’s life when they were playing football and when they were not. Fourth, opportunity mapping documents infrastructure gaps through NYC Planning Department data, revealing the lack of health/human service facilities. These methods make visible how spatial inequities in education and recreation intersect at our client’s address.  
+For our spatial analysis, we combined three evidence-based approaches. We start with an IEP distribution mapping, which visualizes neighborhood disparities in special education support and contextualized NYC DOE report linking IEP access to more favorable outcomes and vice versa. Second, a time-geography tracks our client’s daily commute from Red Hook Houses to two different high schools, using MTA transit logs to quantify how the school’s location and consequent commute and the client’s football schedule provided structure. Third, a time analysis tracks our client’s daily schedule to visualize the hour-by-hour difference in our client’s life when they were playing football and when they were not. Fourth, opportunity mapping documents infrastructure gaps through NYC Planning Department data, revealing the lack of health/human service facilities, among other central services, absent from the client's neighborhood; herein, we mark a sharp distinction to the official narrative that the city supports all residents of this area through relevant and applicable services. Taken together, these methods make visible how spatial inequities in education and recreation intersect at our client’s address.  
 
 #### 05. IMPLICATIONS  
 
@@ -75,11 +75,23 @@ Our research generates several actionable insights across three professional dom
 
 #### 05. REFERENCES  
 
+Dancig-Rosenberg, Hadar and Dancig-Rosenberg, Hadar and Dixon, Peter, "JUSTICE OF OUR OWN" DEFINING SUCCESS AT THE RED HOOK COMMUNITY JUSTICE CENTER (April 01, 2025). Vanderbilt Law Review, volume 78, Bar Ilan University Faculty of Law Research Paper Forthcoming, Columbia Public Law Research Paper Forthcoming, Available at SSRN: https://ssrn.com/abstract=5202803 or http://dx.doi.org/10.2139/ssrn.5202803
+
+Fünfgeld, Hartmut, Darryn McEvoy, and Karyn Bosomworth (2013). Resilience and Climate Change Adaptation: The Importance of Framing, Planning Practice & Research, 28:3, 280-293
+
+Graham, Stephen, and Simon Marvin. Splintering Urbanism: Networked Infrastructures, Technological Mobilities and the Urban Condition. Psychology Press, 2001.
+
+Kavanagh, Michael, "Public Housing in the New York City: The Case of the Red Hook Houses" (2013). African & African American Studies Senior Theses. 19. https://research.library.fordham.edu/aaas_senior/19
+
 Lipsitz, George. 2007. “The Racialization of Space and the Spatialization of Race: Theorizing the Hidden Architecture of Landscape.” Landscape Journal 26 (1): 10–23. http://www.jstor.org/stable/43323751.
+
+McMahon, K. “Broadband: Survey of Planners and Best Practices”. Practicing Planner. Vol. 11, No. 3 (2013)
 
 New York City Department of Education. n.d. The IEP Process. NYC Schools. Accessed May 2025. https://www.schools.nyc.gov/learning/special-education/the-iep-process/the-iep.
 
 New York City Department of Education. 2019. Annual Special Education Data Report: School Year 2018–2019. New York: NYC Department of Education. https://infohub.nyced.org/docs/default-source/default-document-library/annual-special-education-data-report-sy18-1960b79998ec27487584b9fedec3fac29c.pdf.
+
+New York City Department of Planning, NYC Capital Planning Explorer, https://capitalplanning.nyc.gov/facilities.
 
 Piggott, Charlotte L., Chris M. Spray, Claire Mason, and Daniel Rhind. 2024. “Using Sport and Physical Activity Interventions to Develop Life Skills and Reduce Delinquency in Youth: A Systematic Review.” International Review of Sport and Exercise Psychology. Advance online publication. https://doi.org/10.1080/1750984X.2024.2349994.
 
@@ -88,3 +100,5 @@ Raj, Chiraag S. 2022. “Rights to Nowhere: The IDEA’s Inadequacy in High-Pove
 Riley, Trevon, Joseph P. Schleimer, and Julia L. Jahn. 2024. “Organized Abandonment under Racial Capitalism: Measuring Accountable Actors of Structural Racism for Public Health Research and Action.”
 
 Shippen, Nicole, Samantha R. Horn, Patrick Triece, Andrea Chronis-Tuscano, and Maggie C. Meinzer. 2022. “Understanding ADHD in Black Adolescents in Urban Schools: A Qualitative Examination of Factors That Influence ADHD Presentation, Coping Strategies, and Access to Care.” Evidence-Based Practice in Child and Adolescent Mental Health 7 (2): 213–229. https://doi.org/10.1080/23794925.2021.2013140.
+
+Torrens, Paul M. “Wi-Fi Geographies.” Annals of the Association of American Geographers 98.1 (2008): 59-84
