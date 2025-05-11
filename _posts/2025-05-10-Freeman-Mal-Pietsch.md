@@ -6,7 +6,7 @@ title:  "Legal Aid Society: Red Hook"
 author: "Erin Emily Freeman, Nyadeng Mal, Soenke Pietsch"
 ---
 <br> 
-<img src="/conflict_urbanism_sp2025/images/Freeman_Mal_Pietsch/post-title-card.png">
+<img src="/conflict_urbanism_sp2025/images/Freeman_Mal_Pietsch/post-title-card.png" type="image/png">
 <br> 
 
 #### 00. INTRODUCTION  
